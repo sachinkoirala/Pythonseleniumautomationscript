@@ -1,0 +1,959 @@
+1612342128297	geckodriver	INFO	Listening on 127.0.0.1:38449
+1612342128400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOBoUk3"
+1612342135356	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612342135357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612342135357	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612342135358	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 8988, tid 8988, syscall 315, args 8988 140409179916544 56 0 26 140409179916544.
+Sandbox: seccomp sandbox violation: pid 8988, tid 8988, syscall 332, args 25 140409411207934 4096 1 140736489562768 140409180018256.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFFC477A0E0, 4096)
+Sandbox: seccomp sandbox violation: pid 8988, tid 8988, syscall 262, args 25 140409411207934 140736489562336 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://97f85ee5-84e9-4d9a-b78c-1031aea67c82/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 9016, tid 9016, syscall 315, args 9016 140517638859392 56 0 21 140517638859392.
+Sandbox: seccomp sandbox violation: pid 9016, tid 9016, syscall 332, args 25 140517870273278 4096 1 140725656397440 140517639465536.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD3EC2A4D0, 4096)
+Sandbox: seccomp sandbox violation: pid 9016, tid 9016, syscall 262, args 25 140517870273278 140725656397008 4096 4096 1.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1612342144072	Marionette	INFO	Listening on port 42847
+1612342144225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612342188028	Marionette	INFO	Stopped listening on port 42847
+1612342336610	geckodriver	INFO	Listening on 127.0.0.1:50873
+1612342336620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh26rd3"
+1612342337856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612342337857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612342337857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612342337858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 9270, tid 9270, syscall 315, args 9270 139938695280448 56 0 34 139938695280448.
+Sandbox: seccomp sandbox violation: pid 9270, tid 9270, syscall 332, args 25 139938926584574 4096 1 140725648563808 139938695140944.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD3E4B1CB0, 4096)
+Sandbox: seccomp sandbox violation: pid 9270, tid 9270, syscall 262, args 25 139938926584574 140725648563376 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 9295, tid 9295, syscall 315, args 9295 140118742058944 56 0 30 140118742058944.
+Sandbox: seccomp sandbox violation: pid 9295, tid 9295, syscall 332, args 28 140118973088510 4096 1 140728791284288 140118742178656.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFDF99D3890, 4096)
+Sandbox: seccomp sandbox violation: pid 9295, tid 9295, syscall 262, args 28 140118973088510 140728791283856 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c31c2aab-0606-49db-9c95-522f062be739/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1612342342083	Marionette	INFO	Listening on port 39177
+1612342342159	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 9347, tid 9347, syscall 315, args 9347 140174014580928 56 0 28 140174014580928.
+Sandbox: seccomp sandbox violation: pid 9347, tid 9347, syscall 332, args 27 140174245348094 4096 1 140724820389024 140174014696960.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD0CEE2AF0, 4096)
+Sandbox: seccomp sandbox violation: pid 9347, tid 9347, syscall 262, args 27 140174245348094 140724820388592 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 9431, tid 9431, syscall 315, args 9431 139922164475904 56 0 30 139922164475904.
+Sandbox: seccomp sandbox violation: pid 9431, tid 9431, syscall 332, args 26 139922395456254 4096 1 140726465664704 139922164682288.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFD6EFF1510, 4096)
+Sandbox: seccomp sandbox violation: pid 9431, tid 9431, syscall 262, args 26 139922395456254 140726465664272 4096 4096 1.
+[Parent 9218, Gecko_IOThread] WARNING: pipe error (114): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1612342419590	Marionette	INFO	Stopped listening on port 39177
+1612343271968	geckodriver	INFO	Listening on 127.0.0.1:56379
+1612343271980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegWLX1V"
+1612343273291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612343273291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612343273292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612343273292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 9953, tid 9953, syscall 315, args 9953 140004571629696 56 0 29 140004571629696.
+Sandbox: seccomp sandbox violation: pid 9953, tid 9953, syscall 332, args 27 140004803085054 4096 1 140726386585120 140004572046832.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD6A486C70, 4096)
+Sandbox: seccomp sandbox violation: pid 9953, tid 9953, syscall 262, args 27 140004803085054 140726386584688 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 9978, tid 9978, syscall 315, args 9978 140188198771264 56 0 22 140188198771264.
+Sandbox: seccomp sandbox violation: pid 9978, tid 9978, syscall 332, args 28 140188430312190 4096 1 140728099791504 140188198882144.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFDD065E0E0, 4096)
+Sandbox: seccomp sandbox violation: pid 9978, tid 9978, syscall 262, args 28 140188430312190 140728099791072 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://194b9eab-a513-4340-a32d-51ea9b6aebbb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1612343278425	Marionette	INFO	Listening on port 42597
+1612343278502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612343369645	Marionette	INFO	Stopped listening on port 42597
+1612344493259	geckodriver	INFO	Listening on 127.0.0.1:42157
+1612344493269	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHOnc6e"
+1612344494645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1612344494646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1612344494647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1612344494647	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10844, tid 10844, syscall 315, args 10844 139799732377728 56 0 29 139799732377728.
+Sandbox: seccomp sandbox violation: pid 10844, tid 10844, syscall 332, args 27 139799963722494 4096 1 140726260283888 139799732487712.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD62C13840, 4096)
+Sandbox: seccomp sandbox violation: pid 10844, tid 10844, syscall 262, args 27 139799963722494 140726260283456 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 10869, tid 10869, syscall 315, args 10869 140455572097280 56 0 26 140455572097280.
+Sandbox: seccomp sandbox violation: pid 10869, tid 10869, syscall 332, args 26 140455802807038 4096 1 140723722989024 140455571778112.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFCCB852C30, 4096)
+Sandbox: seccomp sandbox violation: pid 10869, tid 10869, syscall 262, args 26 140455802807038 140723722988592 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://6cf404f1-243e-4a32-9a5f-956265554c39/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1612344499652	Marionette	INFO	Listening on port 33863
+1612344499714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612344528807	Marionette	INFO	Stopped listening on port 33863
+1613020417636	geckodriver	INFO	Listening on 127.0.0.1:37803
+1613020418588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLuNTSU"
+1613020422319	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613020422320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613020422320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613020422320	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 3035, tid 3035, syscall 315, args 3035 140191461444096 56 0 23 140191461444096.
+Sandbox: seccomp sandbox violation: pid 3035, tid 3035, syscall 332, args 28 140191690957566 4096 1 140724829971088 140191461852320.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFD0D8060E0, 4096)
+Sandbox: seccomp sandbox violation: pid 3035, tid 3035, syscall 262, args 28 140191690957566 140724829970656 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://484cac96-dc0e-49b7-b697-3c7eae083f01/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 3060, tid 3060, syscall 315, args 3060 140312361553088 56 0 12 140312361553088.
+Sandbox: seccomp sandbox violation: pid 3060, tid 3060, syscall 332, args 28 140312591057662 4096 1 140730157675360 140312361478432.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFE4B0EB1B0, 4096)
+Sandbox: seccomp sandbox violation: pid 3060, tid 3060, syscall 262, args 28 140312591057662 140730157674928 4096 4096 1.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613020428920	Marionette	INFO	Listening on port 34679
+1613020429103	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613020448460	Marionette	INFO	Stopped listening on port 34679
+1613020604909	geckodriver	INFO	Listening on 127.0.0.1:33391
+1613020604919	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQjtTjr"
+1613020606248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613020606249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613020606249	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613020606254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 3254, tid 3254, syscall 315, args 3254 139923324734784 56 0 10 139923324734784.
+Sandbox: seccomp sandbox violation: pid 3254, tid 3254, syscall 332, args 27 139923565359870 4096 1 140725968339472 139923335517392.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD515A8060, 4096)
+Sandbox: seccomp sandbox violation: pid 3254, tid 3254, syscall 262, args 27 139923565359870 140725968339040 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 3279, tid 3279, syscall 315, args 3279 139997729295680 56 0 10 139997729295680.
+Sandbox: seccomp sandbox violation: pid 3279, tid 3279, syscall 332, args 26 139997979587326 4096 1 140725904151680 139997729401168.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFD4D8712D0, 4096)
+Sandbox: seccomp sandbox violation: pid 3279, tid 3279, syscall 262, args 26 139997979587326 140725904151248 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://19e3fa54-83f3-462d-9a47-174ff0326aa0/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613020610349	Marionette	INFO	Listening on port 40971
+1613020610441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613020618096	Marionette	INFO	Stopped listening on port 40971
+1613020646639	geckodriver	INFO	Listening on 127.0.0.1:43331
+1613020646649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileimcS5H"
+1613020647915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613020647916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613020647916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613020647917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 3440, tid 3440, syscall 315, args 3440 139980211195072 56 0 12 139980211195072.
+Sandbox: seccomp sandbox violation: pid 3440, tid 3440, syscall 332, args 25 139980440756990 4096 1 140723775315424 139980211614880.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFCCEA39C30, 4096)
+Sandbox: seccomp sandbox violation: pid 3440, tid 3440, syscall 262, args 25 139980440756990 140723775314992 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 3465, tid 3465, syscall 315, args 3465 140013104970368 56 0 20 140013104970368.
+Sandbox: seccomp sandbox violation: pid 3465, tid 3465, syscall 332, args 28 140013334143742 4096 1 140721120531920 140013105072512.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFC3066D420, 4096)
+Sandbox: seccomp sandbox violation: pid 3465, tid 3465, syscall 262, args 28 140013334143742 140721120531488 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a434c606-8688-4604-b3d4-661bcedf7162/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613020652791	Marionette	INFO	Listening on port 44629
+1613020652874	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613020672249	Marionette	INFO	Stopped listening on port 44629
+1613020854579	geckodriver	INFO	Listening on 127.0.0.1:55943
+1613020854592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIuroa4"
+1613020855881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613020855881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613020855882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613020855882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 3687, tid 3687, syscall 315, args 3687 140342600059520 56 0 19 140342600059520.
+Sandbox: seccomp sandbox violation: pid 3687, tid 3687, syscall 332, args 27 140342829384446 4096 1 140731609045632 140342600832160.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEA190D8D0, 4096)
+Sandbox: seccomp sandbox violation: pid 3687, tid 3687, syscall 262, args 27 140342829384446 140731609045200 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 3712, tid 3712, syscall 315, args 3712 140514984938944 56 0 8 140514984938944.
+Sandbox: seccomp sandbox violation: pid 3712, tid 3712, syscall 332, args 26 140515214516990 4096 1 140725812393200 140514985515248.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFD480EF340, 4096)
+Sandbox: seccomp sandbox violation: pid 3712, tid 3712, syscall 262, args 26 140515214516990 140725812392768 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://bcbcbfa2-405e-4911-8b42-ff46534c0059/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613020860519	Marionette	INFO	Listening on port 42681
+1613020860614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613020894533	Marionette	INFO	Stopped listening on port 42681
+1613021008601	geckodriver	INFO	Listening on 127.0.0.1:48741
+1613021008636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4hWFCH"
+1613021009899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613021009899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613021009900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613021009900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 3885, tid 3885, syscall 315, args 3885 139684852788416 56 0 12 139684852788416.
+Sandbox: seccomp sandbox violation: pid 3885, tid 3885, syscall 332, args 27 139685081572094 4096 1 140730813298432 139684852741232.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFE7222B550, 4096)
+Sandbox: seccomp sandbox violation: pid 3885, tid 3885, syscall 262, args 27 139685081572094 140730813298000 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 3910, tid 3910, syscall 315, args 3910 139927968480448 56 0 12 139927968480448.
+Sandbox: seccomp sandbox violation: pid 3910, tid 3910, syscall 332, args 26 139928197382910 4096 1 140729693643328 139927968581872.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE2F662090, 4096)
+Sandbox: seccomp sandbox violation: pid 3910, tid 3910, syscall 262, args 26 139928197382910 140729693642896 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://2c5d3867-0297-47a7-a928-866f94e216d5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613021014044	Marionette	INFO	Listening on port 45069
+1613021014065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613021027457	Marionette	INFO	Stopped listening on port 45069
+1613021283496	geckodriver	INFO	Listening on 127.0.0.1:60919
+1613021283505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMCfN3n"
+1613021284765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613021284765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613021284766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613021284770	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 4222, tid 4222, syscall 315, args 4222 139634331024000 56 0 19 139634331024000.
+Sandbox: seccomp sandbox violation: pid 4222, tid 4222, syscall 332, args 27 139634560729854 4096 1 140734085627824 139634331202768.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFF352E7E00, 4096)
+Sandbox: seccomp sandbox violation: pid 4222, tid 4222, syscall 262, args 27 139634560729854 140734085627392 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 4247, tid 4247, syscall 315, args 4247 140346435148416 56 0 19 140346435148416.
+Sandbox: seccomp sandbox violation: pid 4247, tid 4247, syscall 332, args 29 140346663789310 4096 1 140731641141104 140346435254704.
+Sandbox: unsupported fd-relative fstatat(29, "", 0x7FFEA37A95C0, 4096)
+Sandbox: seccomp sandbox violation: pid 4247, tid 4247, syscall 262, args 29 140346663789310 140731641140672 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d6dc9cfd-b509-45c5-90b0-fa8fc130af2e/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613021288824	Marionette	INFO	Listening on port 40031
+1613021288925	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 4170, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613021356465	Marionette	INFO	Stopped listening on port 40031
+1613040777539	geckodriver	INFO	Listening on 127.0.0.1:53415
+1613040778533	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6v5onL"
+1613040782041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613040782042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613040782042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613040782042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 8181, tid 8181, syscall 315, args 8181 140426632518976 56 0 10 140426632518976.
+Sandbox: seccomp sandbox violation: pid 8181, tid 8181, syscall 332, args 26 140426882581246 4096 1 140730449960912 140426632615120.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE5C7A9E20, 4096)
+Sandbox: seccomp sandbox violation: pid 8181, tid 8181, syscall 262, args 26 140426882581246 140730449960480 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 8206, tid 8206, syscall 315, args 8206 139646564343104 56 0 10 139646564343104.
+Sandbox: seccomp sandbox violation: pid 8206, tid 8206, syscall 332, args 25 139646814696190 4096 1 140730666247008 139646564448448.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFE695EE1B0, 4096)
+Sandbox: seccomp sandbox violation: pid 8206, tid 8206, syscall 262, args 25 139646814696190 140730666246576 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c03f6faa-2a9c-4d95-8481-30bdbc01e22c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613040789785	Marionette	INFO	Listening on port 34955
+1613040791121	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 8095, Gecko_IOThread] WARNING: pipe error (86): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613040917804	Marionette	INFO	Stopped listening on port 34955
+1613040988627	geckodriver	INFO	Listening on 127.0.0.1:36797
+1613040988717	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBdkUhP"
+1613040990939	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613040990940	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613040990944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613040990944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 8440, tid 8440, syscall 315, args 8440 139820681014464 56 0 12 139820681014464.
+Sandbox: seccomp sandbox violation: pid 8440, tid 8440, syscall 332, args 25 139820910818046 4096 1 140725914608752 139820681118832.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD4E26A2C0, 4096)
+Sandbox: seccomp sandbox violation: pid 8440, tid 8440, syscall 262, args 25 139820910818046 140725914608320 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 8465, tid 8465, syscall 315, args 8465 139738766593216 56 0 12 139738766593216.
+Sandbox: seccomp sandbox violation: pid 8465, tid 8465, syscall 332, args 26 139738995868414 4096 1 140727303153248 139738766280944.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDA0EA24B0, 4096)
+Sandbox: seccomp sandbox violation: pid 8465, tid 8465, syscall 262, args 26 139738995868414 140727303152816 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c7ce68aa-0ebd-4dbe-b8fb-8152c065ebfa/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613040995616	Marionette	INFO	Listening on port 44191
+1613040995653	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613041019211	Marionette	INFO	Stopped listening on port 44191
+1613041102205	geckodriver	INFO	Listening on 127.0.0.1:33479
+1613041102215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemYA0rl"
+1613041103664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613041103664	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613041103665	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613041103670	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 8652, tid 8652, syscall 315, args 8652 139726939573440 56 0 12 139726939573440.
+Sandbox: seccomp sandbox violation: pid 8652, tid 8652, syscall 332, args 26 139727168267006 4096 1 140728633878992 139726939636944.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDF03B6820, 4096)
+Sandbox: seccomp sandbox violation: pid 8652, tid 8652, syscall 262, args 26 139727168267006 140728633878560 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 8677, tid 8677, syscall 315, args 8677 139954713587008 56 0 10 139954713587008.
+Sandbox: seccomp sandbox violation: pid 8677, tid 8677, syscall 332, args 28 139954963612414 4096 1 140729438258384 139954713692736.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFE202D4320, 4096)
+Sandbox: seccomp sandbox violation: pid 8677, tid 8677, syscall 262, args 28 139954963612414 140729438257952 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://bdcd4c01-ab33-40ad-98c3-7748027a57f9/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613041107881	Marionette	INFO	Listening on port 35031
+1613041107940	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 8732, tid 8732, syscall 315, args 8732 139808470617152 56 0 14 139808470617152.
+Sandbox: seccomp sandbox violation: pid 8732, tid 8732, syscall 332, args 27 139808699622142 4096 1 140732281799056 139808470793824.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFEC9AA3FE0, 4096)
+Sandbox: seccomp sandbox violation: pid 8732, tid 8732, syscall 262, args 27 139808699622142 140732281798624 4096 4096 1.
+[Parent 8600, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8600, Gecko_IOThread] WARNING: pipe error (111): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613041151169	Marionette	INFO	Stopped listening on port 35031
+1613041236464	geckodriver	INFO	Listening on 127.0.0.1:53255
+1613041236474	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB0ZImN"
+1613041237708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613041237708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613041237709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613041237709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 8878, tid 8878, syscall 315, args 8878 139709200714944 56 0 12 139709200714944.
+Sandbox: seccomp sandbox violation: pid 8878, tid 8878, syscall 332, args 27 139709429998334 4096 1 140737430715104 139709200635040.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFFFC907930, 4096)
+Sandbox: seccomp sandbox violation: pid 8878, tid 8878, syscall 262, args 27 139709429998334 140737430714672 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 8903, tid 8903, syscall 315, args 8903 139925111188672 56 0 12 139925111188672.
+Sandbox: seccomp sandbox violation: pid 8903, tid 8903, syscall 332, args 26 139925339693822 4096 1 140722029807520 139925110859872.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC669945F0, 4096)
+Sandbox: seccomp sandbox violation: pid 8903, tid 8903, syscall 262, args 26 139925339693822 140722029807088 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c4ec8ef8-e3c7-46ea-8832-315c471cb8a5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613041242170	Marionette	INFO	Listening on port 36421
+1613041242207	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 8825, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8825, Gecko_IOThread] WARNING: pipe error (75): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613041459507	Marionette	INFO	Stopped listening on port 36421
+1613041711100	geckodriver	INFO	Listening on 127.0.0.1:42023
+1613041711112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS1JkTN"
+1613041712580	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613041712581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613041712581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613041712586	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 9223, tid 9223, syscall 315, args 9223 140654473411776 56 0 12 140654473411776.
+Sandbox: seccomp sandbox violation: pid 9223, tid 9223, syscall 332, args 25 140654702101246 4096 1 140732633654208 140654472950992.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFEDEA32210, 4096)
+Sandbox: seccomp sandbox violation: pid 9223, tid 9223, syscall 262, args 25 140654702101246 140732633653776 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 9248, tid 9248, syscall 315, args 9248 140154662141120 56 0 12 140154662141120.
+Sandbox: seccomp sandbox violation: pid 9248, tid 9248, syscall 332, args 28 140154891608830 4096 1 140730894334912 140154662271456.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFE76F73A10, 4096)
+Sandbox: seccomp sandbox violation: pid 9248, tid 9248, syscall 262, args 28 140154891608830 140730894334480 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://9fdee8de-6be4-439c-b1de-ec2097310e75/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613041717679	Marionette	INFO	Listening on port 44407
+1613041717735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebNavigationFrames.jsm, line 45: TypeError: window is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 9172, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 9172, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613041769187	Marionette	INFO	Stopped listening on port 44407
+1613041780007	geckodriver	INFO	Listening on 127.0.0.1:38967
+1613041780048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuuZuIN"
+1613041782163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613041782163	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613041782164	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613041782168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 9411, tid 9411, syscall 315, args 9411 139924184210624 56 0 12 139924184210624.
+Sandbox: seccomp sandbox violation: pid 9411, tid 9411, syscall 332, args 27 139924412801790 4096 1 140730000931936 139924184310992.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFE41B6FAB0, 4096)
+Sandbox: seccomp sandbox violation: pid 9411, tid 9411, syscall 262, args 27 139924412801790 140730000931504 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 9436, tid 9436, syscall 315, args 9436 140475652307136 56 0 24 140475652307136.
+Sandbox: seccomp sandbox violation: pid 9436, tid 9436, syscall 332, args 28 140475881267966 4096 1 140723354442384 140475652385200.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFCB58D98E0, 4096)
+Sandbox: seccomp sandbox violation: pid 9436, tid 9436, syscall 262, args 28 140475881267966 140723354441952 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://63e50c24-991a-4bbe-9db3-30603611edd8/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613041786794	Marionette	INFO	Listening on port 37195
+1613041786875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613041835314	Marionette	INFO	Stopped listening on port 37195
+1613042512575	geckodriver	INFO	Listening on 127.0.0.1:37347
+1613042512584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7h9G1d"
+1613042514002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613042514002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613042514002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613042514007	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 9778, tid 9778, syscall 315, args 9778 139691079969408 56 0 19 139691079969408.
+Sandbox: seccomp sandbox violation: pid 9778, tid 9778, syscall 332, args 26 139691309269758 4096 1 140724355063600 139691080561824.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFCF131DD80, 4096)
+Sandbox: seccomp sandbox violation: pid 9778, tid 9778, syscall 262, args 26 139691309269758 140724355063168 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 9803, tid 9803, syscall 315, args 9803 139669055110336 56 0 12 139669055110336.
+Sandbox: seccomp sandbox violation: pid 9803, tid 9803, syscall 332, args 27 139669283775230 4096 1 140723563267072 139669055212048.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFCC2000250, 4096)
+Sandbox: seccomp sandbox violation: pid 9803, tid 9803, syscall 262, args 27 139669283775230 140723563266640 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3387d1a7-f25e-4105-8f3f-967398bbbdb9/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613042518346	Marionette	INFO	Listening on port 40191
+1613042518605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613042656067	geckodriver	INFO	Listening on 127.0.0.1:47595
+1613042656077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefjcZ9m"
+1613042657550	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613042657551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613042657551	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613042657552	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10018, tid 10018, syscall 315, args 10018 140589116279296 56 0 23 140589116279296.
+Sandbox: seccomp sandbox violation: pid 10018, tid 10018, syscall 332, args 25 140589345579774 4096 1 140729785396000 140589116789824.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFE34DE2970, 4096)
+Sandbox: seccomp sandbox violation: pid 10018, tid 10018, syscall 262, args 25 140589345579774 140729785395568 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://ff7293cc-d66e-41da-b077-19d52c6ab4e3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 10043, tid 10043, syscall 315, args 10043 140296955546240 56 0 19 140296955546240.
+Sandbox: seccomp sandbox violation: pid 10043, tid 10043, syscall 332, args 25 140297185436414 4096 1 140727476219504 140296956389712.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFDAB3AECC0, 4096)
+Sandbox: seccomp sandbox violation: pid 10043, tid 10043, syscall 262, args 25 140297185436414 140727476219072 4096 4096 1.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613042663367	Marionette	INFO	Listening on port 42123
+1613042663405	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+[Parent 9725, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 9725, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613042677034	Marionette	INFO	Stopped listening on port 40191
+1613042766277	geckodriver	INFO	Listening on 127.0.0.1:49789
+1613042766303	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecSr08b"
+1613042768310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613042768311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613042768311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613042768312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10239, tid 10239, syscall 315, args 10239 139936464177984 56 0 18 139936464177984.
+Sandbox: seccomp sandbox violation: pid 10239, tid 10239, syscall 332, args 27 139936692675326 4096 1 140724046214176 139936463877328.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFCDEC93270, 4096)
+Sandbox: seccomp sandbox violation: pid 10239, tid 10239, syscall 262, args 27 139936692675326 140724046213744 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 10264, tid 10264, syscall 315, args 10264 140416303868224 56 0 26 140416303868224.
+Sandbox: seccomp sandbox violation: pid 10264, tid 10264, syscall 332, args 26 140416532914942 4096 1 140736983438000 140416303962064.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFE1E79100, 4096)
+Sandbox: seccomp sandbox violation: pid 10264, tid 10264, syscall 262, args 26 140416532914942 140736983437568 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://97b82b9c-0d3c-461d-967a-287ce8927dff/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+[Parent 9967, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613042771286	Marionette	INFO	Stopped listening on port 42123
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613042773588	Marionette	INFO	Listening on port 33617
+1613042773651	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613042800674	geckodriver	INFO	Listening on 127.0.0.1:35655
+1613042800683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZisJA5"
+1613042802009	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613042802010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613042802010	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613042802011	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10425, tid 10425, syscall 315, args 10425 140691410975936 56 0 12 140691410975936.
+Sandbox: seccomp sandbox violation: pid 10425, tid 10425, syscall 332, args 25 140691640402686 4096 1 140734785239920 140691411805344.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFF5EE1B9C0, 4096)
+Sandbox: seccomp sandbox violation: pid 10425, tid 10425, syscall 262, args 25 140691640402686 140734785239488 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 10452, tid 10452, syscall 315, args 10452 140262048517312 56 0 12 140262048517312.
+Sandbox: seccomp sandbox violation: pid 10452, tid 10452, syscall 332, args 25 140262278062846 4096 1 140725581371024 140262049044960.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD3A49D4E0, 4096)
+Sandbox: seccomp sandbox violation: pid 10452, tid 10452, syscall 262, args 25 140262278062846 140725581370592 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://43d94e25-fec8-4424-9dfe-3890726eb8c6/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1613042806681	Marionette	INFO	Stopped listening on port 33617
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613042808002	Marionette	INFO	Listening on port 33393
+1613042808017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613042823598	geckodriver	INFO	Listening on 127.0.0.1:56399
+1613042823609	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewTmadf"
+1613042824979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613042824979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613042824980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613042824980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10600, tid 10600, syscall 315, args 10600 139846197926528 56 0 19 139846197926528.
+Sandbox: seccomp sandbox violation: pid 10600, tid 10600, syscall 332, args 27 139846427386622 4096 1 140724445265840 139846198162592.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFCF6923E00, 4096)
+Sandbox: seccomp sandbox violation: pid 10600, tid 10600, syscall 262, args 27 139846427386622 140724445265408 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 10625, tid 10625, syscall 315, args 10625 140117922778304 56 0 12 140117922778304.
+Sandbox: seccomp sandbox violation: pid 10625, tid 10625, syscall 332, args 30 140118151815934 4096 1 140733424692656 140117922884112.
+Sandbox: unsupported fd-relative fstatat(30, "", 0x7FFF0DC96C00, 4096)
+Sandbox: seccomp sandbox violation: pid 10625, tid 10625, syscall 262, args 30 140118151815934 140733424692224 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://df9a2519-c997-496a-a6d1-f39b76c8a266/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613042830585	Marionette	INFO	Stopped listening on port 33393
+1613042830626	Marionette	INFO	Listening on port 43163
+1613042830647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613042845336	Marionette	INFO	Stopped listening on port 43163
+1613042857096	geckodriver	INFO	Listening on 127.0.0.1:51379
+1613042857105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile36YHO6"
+1613042858407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613042858407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613042858408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613042858408	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10785, tid 10785, syscall 315, args 10785 139934611225792 56 0 12 139934611225792.
+Sandbox: seccomp sandbox violation: pid 10785, tid 10785, syscall 332, args 26 139934840562430 4096 1 140735819860464 139934611313824.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF9C8CC840, 4096)
+Sandbox: seccomp sandbox violation: pid 10785, tid 10785, syscall 262, args 26 139934840562430 140735819860032 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 10810, tid 10810, syscall 315, args 10810 139973543881920 56 0 12 139973543881920.
+Sandbox: seccomp sandbox violation: pid 10810, tid 10810, syscall 332, args 29 139973772862206 4096 1 140725414800272 139973543565744.
+Sandbox: unsupported fd-relative fstatat(29, "", 0x7FFD305C29E0, 4096)
+Sandbox: seccomp sandbox violation: pid 10810, tid 10810, syscall 262, args 29 139973772862206 140725414799840 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://adc5416a-257a-4492-8b02-daf9e3269792/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613042862719	Marionette	INFO	Listening on port 44557
+1613042862759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613042876256	Marionette	INFO	Stopped listening on port 44557
+1613042885218	geckodriver	INFO	Listening on 127.0.0.1:54319
+1613042885227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA5y5R1"
+1613042886521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613042886521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613042886522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613042886522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 10965, tid 10965, syscall 315, args 10965 139972833590464 56 0 12 139972833590464.
+Sandbox: seccomp sandbox violation: pid 10965, tid 10965, syscall 332, args 26 139973062533886 4096 1 140734774746416 139972833690784.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF5E419B80, 4096)
+Sandbox: seccomp sandbox violation: pid 10965, tid 10965, syscall 262, args 26 139973062533886 140734774745984 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 10990, tid 10990, syscall 315, args 10990 140554828164288 56 0 12 140554828164288.
+Sandbox: seccomp sandbox violation: pid 10990, tid 10990, syscall 332, args 28 140555057144574 4096 1 140733342162032 140554828265904.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFF08DE1AC0, 4096)
+Sandbox: seccomp sandbox violation: pid 10990, tid 10990, syscall 262, args 28 140555057144574 140733342161600 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://dd718232-2918-46be-b588-97746878c6a6/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613042891351	Marionette	INFO	Listening on port 37273
+1613042891449	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613042902262	Marionette	INFO	Stopped listening on port 37273
+1613043178249	geckodriver	INFO	Listening on 127.0.0.1:52389
+1613043178375	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoJXEYk"
+1613043179851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613043179852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613043179853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613043179853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 11207, tid 11207, syscall 315, args 11207 139633239686336 56 0 12 139633239686336.
+Sandbox: seccomp sandbox violation: pid 11207, tid 11207, syscall 332, args 26 139633468941054 4096 1 140731430977136 139633240011888.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFE96F3BCC0, 4096)
+Sandbox: seccomp sandbox violation: pid 11207, tid 11207, syscall 262, args 26 139633468941054 140731430976704 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 11232, tid 11232, syscall 315, args 11232 139662543576128 56 0 14 139662543576128.
+Sandbox: seccomp sandbox violation: pid 11232, tid 11232, syscall 332, args 25 139662793417470 4096 1 140721516679232 139662543702352.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFC48038E90, 4096)
+Sandbox: seccomp sandbox violation: pid 11232, tid 11232, syscall 262, args 25 139662793417470 140721516678800 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://3438e708-ae62-4b33-a70d-5aa1c7de3344/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613043185018	Marionette	INFO	Listening on port 42867
+1613043185112	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11156, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11156, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613043229065	Marionette	INFO	Stopped listening on port 42867
+1613043805977	geckodriver	INFO	Listening on 127.0.0.1:55449
+1613043805991	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF7kSN8"
+1613043808231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613043808231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613043808232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613043808232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 11585, tid 11585, syscall 315, args 11585 140272867220672 56 0 12 140272867220672.
+Sandbox: seccomp sandbox violation: pid 11585, tid 11585, syscall 332, args 26 140273095893758 4096 1 140722200242608 140272866866384.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFC70C1E800, 4096)
+Sandbox: seccomp sandbox violation: pid 11585, tid 11585, syscall 262, args 26 140273095893758 140722200242176 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 11610, tid 11610, syscall 315, args 11610 140213679779008 56 0 12 140213679779008.
+Sandbox: seccomp sandbox violation: pid 11610, tid 11610, syscall 332, args 30 140213909697278 4096 1 140732309112928 140213680060896.
+Sandbox: unsupported fd-relative fstatat(30, "", 0x7FFECB4B06B0, 4096)
+Sandbox: seccomp sandbox violation: pid 11610, tid 11610, syscall 262, args 30 140213909697278 140732309112496 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8c03f1b9-5259-4184-b86f-911be92498fb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613043813407	Marionette	INFO	Listening on port 35199
+1613043813432	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 11531, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11531, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613043898119	Marionette	INFO	Stopped listening on port 35199
+1613043900759	geckodriver	INFO	Listening on 127.0.0.1:42275
+1613043900771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTWOKow"
+1613043902207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613043902207	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613043902208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613043902208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 11776, tid 11776, syscall 315, args 11776 140286379121856 56 0 12 140286379121856.
+Sandbox: seccomp sandbox violation: pid 11776, tid 11776, syscall 332, args 25 140286608392958 4096 1 140723704541280 140286379218080.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFCCA6BAEB0, 4096)
+Sandbox: seccomp sandbox violation: pid 11776, tid 11776, syscall 262, args 25 140286608392958 140723704540848 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://12283c80-aa2b-4d66-9d58-ef58072fd06c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 11801, tid 11801, syscall 315, args 11801 139927869959360 56 0 12 139927869959360.
+Sandbox: seccomp sandbox violation: pid 11801, tid 11801, syscall 332, args 25 139928099439358 4096 1 140725656906432 139927869434480.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD3ECA6910, 4096)
+Sandbox: seccomp sandbox violation: pid 11801, tid 11801, syscall 262, args 25 139928099439358 140725656906000 4096 4096 1.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613043907023	Marionette	INFO	Listening on port 34021
+1613043907105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613058293346	Marionette	INFO	Stopped listening on port 34021
+1613063465459	geckodriver	INFO	Listening on 127.0.0.1:47029
+1613063466414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNKN9sE"
+1613063469327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613063469327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613063469328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613063469328	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 14350, tid 14350, syscall 315, args 14350 139758263798976 56 0 12 139758263798976.
+Sandbox: seccomp sandbox violation: pid 14350, tid 14350, syscall 332, args 27 139758492869374 4096 1 140722932549616 139758263252176.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC9C680640, 4096)
+Sandbox: seccomp sandbox violation: pid 14350, tid 14350, syscall 262, args 27 139758492869374 140722932549184 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 14375, tid 14375, syscall 315, args 14375 140080063302848 56 0 12 140080063302848.
+Sandbox: seccomp sandbox violation: pid 14375, tid 14375, syscall 332, args 25 140080291889918 4096 1 140720492609072 140080063412416.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFC0AF97C80, 4096)
+Sandbox: seccomp sandbox violation: pid 14375, tid 14375, syscall 262, args 25 140080291889918 140720492608640 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://9b8ddd80-8625-4b5b-9c91-347adbba454d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613063478459	Marionette	INFO	Listening on port 40045
+1613063478506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613063588970	geckodriver	INFO	Listening on 127.0.0.1:44617
+1613063588981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLjf2AE"
+1613063590399	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613063590400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613063590400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613063590405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context18' can't be sent as the connection is closed."
+1613063591689	Marionette	INFO	Stopped listening on port 40045
+Sandbox: seccomp sandbox violation: pid 14564, tid 14564, syscall 315, args 14564 139711093688832 56 0 21 139711093688832.
+Sandbox: seccomp sandbox violation: pid 14564, tid 14564, syscall 332, args 26 139711343477502 4096 1 140731653851392 139711093773616.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFEA43C8750, 4096)
+Sandbox: seccomp sandbox violation: pid 14564, tid 14564, syscall 262, args 26 139711343477502 140731653850960 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 14582, tid 14582, syscall 315, args 14582 140116751051840 56 0 14 140116751051840.
+Sandbox: seccomp sandbox violation: pid 14582, tid 14582, syscall 332, args 25 140117001003774 4096 1 140736996925872 140116751165728.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFFE2B56000, 4096)
+Sandbox: seccomp sandbox violation: pid 14582, tid 14582, syscall 262, args 25 140117001003774 140736996925440 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://1ff86f35-a3f2-4ee7-a62b-83166614e856/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613063595672	Marionette	INFO	Listening on port 42619
+1613063595705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613063607063	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:638:15
+openPrompt@resource://gre/modules/Prompter.jsm:677:9
+confirm@resource://gre/modules/Prompter.jsm:785:10
+myFunction@http://testautomationpractice.blogspot.com/:743:7
+onclick@http://testautomationpractice.blogspot.com/:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+1613063643615	geckodriver	INFO	Listening on 127.0.0.1:40177
+1613063643624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV72iMj"
+1613063644959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613063644959	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613063644960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613063644960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 14753, tid 14753, syscall 315, args 14753 140309619739840 56 0 12 140309619739840.
+Sandbox: seccomp sandbox violation: pid 14753, tid 14753, syscall 332, args 26 140309848638206 4096 1 140727754068848 140309619831968.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFDBBCA91C0, 4096)
+Sandbox: seccomp sandbox violation: pid 14753, tid 14753, syscall 262, args 26 140309848638206 140727754068416 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 14778, tid 14778, syscall 315, args 14778 140220413267200 56 0 11 140220413267200.
+Sandbox: seccomp sandbox violation: pid 14778, tid 14778, syscall 332, args 29 140220641764094 4096 1 140735436126096 140220412938720.
+Sandbox: unsupported fd-relative fstatat(29, "", 0x7FFF85AD75E0, 4096)
+Sandbox: seccomp sandbox violation: pid 14778, tid 14778, syscall 262, args 29 140220641764094 140735436125664 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f4020a6b-e3fd-4820-bea0-d26f2842a255/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613063649294	Marionette	INFO	Listening on port 33259
+1613063649358	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 14508, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14508, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613063652457	Marionette	INFO	Stopped listening on port 42619
+1613063665882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:638:15
+openPrompt@resource://gre/modules/Prompter.jsm:677:9
+confirm@resource://gre/modules/Prompter.jsm:785:10
+myFunction@http://testautomationpractice.blogspot.com/:743:7
+onclick@http://testautomationpractice.blogspot.com/:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+[Parent 14702, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14702, Gecko_IOThread] WARNING: pipe error (72): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613063700012	Marionette	INFO	Stopped listening on port 33259
+1613063784442	geckodriver	INFO	Listening on 127.0.0.1:42583
+1613063784507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesp1QW7"
+1613063787908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613063787908	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613063787909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613063787910	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 14987, tid 14987, syscall 315, args 14987 140561206725824 56 0 12 140561206725824.
+Sandbox: seccomp sandbox violation: pid 14987, tid 14987, syscall 332, args 26 140561435747070 4096 1 140736346526864 140561206383824.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFBBF112E0, 4096)
+Sandbox: seccomp sandbox violation: pid 14987, tid 14987, syscall 262, args 26 140561435747070 140736346526432 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 15012, tid 15012, syscall 315, args 15012 139670843235520 56 0 12 139670843235520.
+Sandbox: seccomp sandbox violation: pid 15012, tid 15012, syscall 332, args 26 139671072146174 4096 1 140734442760208 139670842648864.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF4A77E660, 4096)
+Sandbox: seccomp sandbox violation: pid 15012, tid 15012, syscall 262, args 26 139671072146174 140734442759776 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8fca2056-ddc7-4712-82df-71200567c485/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613063793310	Marionette	INFO	Listening on port 45879
+1613063793378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613063803004	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+openRemotePrompt@resource://gre/modules/Prompter.jsm:638:15
+openPrompt@resource://gre/modules/Prompter.jsm:677:9
+confirm@resource://gre/modules/Prompter.jsm:785:10
+myFunction@http://testautomationpractice.blogspot.com/:743:7
+onclick@http://testautomationpractice.blogspot.com/:1:1
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:213:14
+webdriverClickElement@chrome://marionette/content/interaction.js:192:11
+[Parent 14933, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 14933, Gecko_IOThread] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613063846208	Marionette	INFO	Stopped listening on port 45879
+1613065295322	geckodriver	INFO	Listening on 127.0.0.1:43917
+1613065295333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6LCITO"
+1613065297015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613065297016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613065297016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613065297021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15720, tid 15720, syscall 315, args 15720 140273145826496 56 0 12 140273145826496.
+Sandbox: seccomp sandbox violation: pid 15720, tid 15720, syscall 332, args 28 140273374577406 4096 1 140730357889440 140273145930864.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFE56FDB7F0, 4096)
+Sandbox: seccomp sandbox violation: pid 15720, tid 15720, syscall 262, args 28 140273374577406 140730357889008 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 15745, tid 15745, syscall 315, args 15745 140327556438976 56 0 16 140327556438976.
+Sandbox: seccomp sandbox violation: pid 15745, tid 15745, syscall 332, args 25 140327785751294 4096 1 140726848682704 140327556552848.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD85D37920, 4096)
+Sandbox: seccomp sandbox violation: pid 15745, tid 15745, syscall 262, args 25 140327785751294 140726848682272 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://e65fa2a9-832f-45fb-8126-0cc2e66f0726/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613065301886	Marionette	INFO	Listening on port 43465
+1613065301978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+1613065316566	Marionette	INFO	Stopped listening on port 43465
+1613065396743	geckodriver	INFO	Listening on 127.0.0.1:37363
+1613065396753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepf5FSe"
+1613065398031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613065398032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613065398032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613065398037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 15913, tid 15913, syscall 315, args 15913 139921663933632 56 0 12 139921663933632.
+Sandbox: seccomp sandbox violation: pid 15913, tid 15913, syscall 332, args 29 139921893864190 4096 1 140733103311136 139921652237520.
+Sandbox: unsupported fd-relative fstatat(29, "", 0x7FFEFAA18770, 4096)
+Sandbox: seccomp sandbox violation: pid 15913, tid 15913, syscall 262, args 29 139921893864190 140733103310704 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 15938, tid 15938, syscall 315, args 15938 140278218079424 56 0 12 140278218079424.
+Sandbox: seccomp sandbox violation: pid 15938, tid 15938, syscall 332, args 26 140278446662398 4096 1 140723973943216 140278217738336.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFCDA7A6E00, 4096)
+Sandbox: seccomp sandbox violation: pid 15938, tid 15938, syscall 262, args 26 140278446662398 140723973942784 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://05620fbc-1c0e-4c9e-a3ae-9edd06b65d41/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613065402191	Marionette	INFO	Listening on port 43713
+1613065402280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+1613065425178	Marionette	INFO	Stopped listening on port 43713
+1613217734578	geckodriver	INFO	Listening on 127.0.0.1:59399
+1613217735516	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSBDTqO"
+1613217739648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613217739648	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613217739649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613217739649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 4459, tid 4459, syscall 315, args 4459 139650935208448 56 0 23 139650935208448.
+Sandbox: seccomp sandbox violation: pid 4459, tid 4459, syscall 332, args 25 139651164824318 4096 1 140730879397328 139650935817376.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFE76134C20, 4096)
+Sandbox: seccomp sandbox violation: pid 4459, tid 4459, syscall 262, args 25 139651164824318 140730879396896 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://07c9d1bf-0fce-4fef-a594-313b80f74366/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+Sandbox: seccomp sandbox violation: pid 4487, tid 4487, syscall 315, args 4487 140670999428288 56 0 12 140670999428288.
+Sandbox: seccomp sandbox violation: pid 4487, tid 4487, syscall 332, args 27 140671228666622 4096 1 140733924834704 140671000012992.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFF2B98FBE0, 4096)
+Sandbox: seccomp sandbox violation: pid 4487, tid 4487, syscall 262, args 27 140671228666622 140733924834272 4096 4096 1.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613217752165	Marionette	INFO	Listening on port 40017
+1613217752201	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+JavaScript error: https://www.selenium.dev/selenium/docs/api/java/jquery/jszip/dist/jszip.js, line 1029: Error: The constructor with parameters has been removed in JSZip 3.0, please check the upgrade guide.
+1613217761975	Marionette	INFO	Stopped listening on port 40017
+1613220957774	geckodriver	INFO	Listening on 127.0.0.1:38655
+1613220958742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZy6P8R"
+1613220960818	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613220960819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613220960819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613220960819	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 5377, tid 5377, syscall 315, args 5377 140138080610944 56 0 19 140138080610944.
+Sandbox: seccomp sandbox violation: pid 5377, tid 5377, syscall 332, args 25 140138310271742 4096 1 140731372771088 140138081010848.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFE937B9560, 4096)
+Sandbox: seccomp sandbox violation: pid 5377, tid 5377, syscall 262, args 25 140138310271742 140731372770656 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 5403, tid 5403, syscall 315, args 5403 139655224528192 56 0 10 139655224528192.
+Sandbox: seccomp sandbox violation: pid 5403, tid 5403, syscall 332, args 28 139655474029310 4096 1 140734063984416 139655224654352.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFF33E43D70, 4096)
+Sandbox: seccomp sandbox violation: pid 5403, tid 5403, syscall 262, args 28 139655474029310 140734063983984 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5686802e-ac6e-47e9-9aba-80a963af3b6b/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613220966766	Marionette	INFO	Listening on port 44041
+1613220966788	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 5483, tid 5483, syscall 315, args 5483 140070970080192 56 0 16 140070970080192.
+Sandbox: seccomp sandbox violation: pid 5483, tid 5483, syscall 332, args 25 140071199032062 4096 1 140736963936224 140070970182592.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFFE0BDFE30, 4096)
+Sandbox: seccomp sandbox violation: pid 5483, tid 5483, syscall 262, args 25 140071199032062 140736963935792 4096 4096 1.
+1613221179784	geckodriver	INFO	Listening on 127.0.0.1:46313
+1613221179795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXESvXc"
+1613221181031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613221181031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613221181032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613221181036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 5608, tid 5608, syscall 315, args 5608 140111599394112 56 0 10 140111599394112.
+Sandbox: seccomp sandbox violation: pid 5608, tid 5608, syscall 332, args 25 140111849063166 4096 1 140737279998336 140111599490160.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFFF394B7D0, 4096)
+Sandbox: seccomp sandbox violation: pid 5608, tid 5608, syscall 262, args 25 140111849063166 140737279997904 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 5633, tid 5633, syscall 315, args 5633 140459072203776 56 0 15 140459072203776.
+Sandbox: seccomp sandbox violation: pid 5633, tid 5633, syscall 332, args 28 140459321828094 4096 1 140722630079904 140459072309776.
+Sandbox: unsupported fd-relative fstatat(28, "", 0x7FFC8A60B3F0, 4096)
+Sandbox: seccomp sandbox violation: pid 5633, tid 5633, syscall 262, args 28 140459321828094 140722630079472 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b0631915-2393-4382-9b70-2a467c0ac964/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613221185608	Marionette	INFO	Listening on port 42113
+1613221185635	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sandbox: seccomp sandbox violation: pid 5705, tid 5705, syscall 315, args 5705 140599125474240 56 0 16 140599125474240.
+Sandbox: seccomp sandbox violation: pid 5705, tid 5705, syscall 332, args 27 140599353787134 4096 1 140725892083168 140599125568592.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFD4CCEEC30, 4096)
+Sandbox: seccomp sandbox violation: pid 5705, tid 5705, syscall 262, args 27 140599353787134 140725892082736 4096 4096 1.
+[Parent 5289, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613221199343	Marionette	INFO	Stopped listening on port 44041
+[Parent 5557, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 5557, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-esr-q0MF88/firefox-esr-68.10.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1613221236335	Marionette	INFO	Stopped listening on port 42113
+1613221842652	geckodriver	INFO	Listening on 127.0.0.1:59065
+1613221842704	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexLKNf9"
+1613221843950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613221843950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613221843951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613221843951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 6046, tid 6046, syscall 315, args 6046 140457648856256 56 0 12 140457648856256.
+Sandbox: seccomp sandbox violation: pid 6046, tid 6046, syscall 332, args 27 140457878795006 4096 1 140722154035664 140457649165424.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC6E00D820, 4096)
+Sandbox: seccomp sandbox violation: pid 6046, tid 6046, syscall 262, args 27 140457878795006 140722154035232 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 6071, tid 6071, syscall 315, args 6071 139728122453248 56 0 11 139728122453248.
+Sandbox: seccomp sandbox violation: pid 6071, tid 6071, syscall 332, args 25 139728351552254 4096 1 140726606864416 139728122558752.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFD77699E70, 4096)
+Sandbox: seccomp sandbox violation: pid 6071, tid 6071, syscall 262, args 25 139728351552254 140726606863984 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://82c34999-eda7-4e24-910b-97a58bac631d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613221848350	Marionette	INFO	Listening on port 43131
+1613221848425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613221865981	Marionette	INFO	Stopped listening on port 43131
+1613222276016	geckodriver	INFO	Listening on 127.0.0.1:36171
+1613222276027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefO0b48"
+1613222277273	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613222277274	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613222277275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613222277275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 6337, tid 6337, syscall 315, args 6337 140308687043264 56 0 20 140308687043264.
+Sandbox: seccomp sandbox violation: pid 6337, tid 6337, syscall 332, args 27 140308916060926 4096 1 140722839088656 140308674298992.
+Sandbox: unsupported fd-relative fstatat(27, "", 0x7FFC96D5EC60, 4096)
+Sandbox: seccomp sandbox violation: pid 6337, tid 6337, syscall 262, args 27 140308916060926 140722839088224 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 6362, tid 6362, syscall 315, args 6362 140202596461120 56 0 20 140202596461120.
+Sandbox: seccomp sandbox violation: pid 6362, tid 6362, syscall 332, args 26 140202826212094 4096 1 140735975358816 140202596633056.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFFA5D17FB0, 4096)
+Sandbox: seccomp sandbox violation: pid 6362, tid 6362, syscall 262, args 26 140202826212094 140735975358384 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://8fd0f5a3-1361-4141-b7cb-1566e0cd6200/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613222281772	Marionette	INFO	Listening on port 43117
+1613222281857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613222304180	geckodriver	INFO	Listening on 127.0.0.1:58041
+1613222304207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles9hCrX"
+1613222305639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1613222305640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1613222305644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1613222305644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+Sandbox: seccomp sandbox violation: pid 6516, tid 6516, syscall 315, args 6516 139884116073792 56 0 10 139884116073792.
+Sandbox: seccomp sandbox violation: pid 6516, tid 6516, syscall 332, args 26 139884365742846 4096 1 140734727525904 139884116170032.
+Sandbox: unsupported fd-relative fstatat(26, "", 0x7FFF5B711460, 4096)
+Sandbox: seccomp sandbox violation: pid 6516, tid 6516, syscall 262, args 26 139884365742846 140734727525472 4096 4096 1.
+Sandbox: seccomp sandbox violation: pid 6531, tid 6531, syscall 315, args 6531 139799899323584 56 0 12 139799899323584.
+Sandbox: seccomp sandbox violation: pid 6531, tid 6531, syscall 332, args 25 139800129024766 4096 1 140731797631120 139799899441248.
+Sandbox: unsupported fd-relative fstatat(25, "", 0x7FFEACCE6EE0, 4096)
+Sandbox: seccomp sandbox violation: pid 6531, tid 6531, syscall 262, args 25 139800129024766 140731797630688 4096 4096 1.
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://23f93593-1521-4f83-ab27-ebd98051e0b4/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1613222312085	Marionette	INFO	Listening on port 37217
+1613222312156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613222314056	Marionette	INFO	Stopped listening on port 43117
